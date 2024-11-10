@@ -7,3 +7,5 @@ download it
 No thanks, just start my download
 Double click on installer
 Execute-next-next-set root password-next-next-execute-finish-enter password
+just untick on mysql shell
+
