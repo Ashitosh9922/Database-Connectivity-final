@@ -1,0 +1,9 @@
+Mysql download
+downloads
+scrolldown
+mysql community(gpl) downloads
+mysql installer for windows
+download it
+No thanks, just start my download
+Double click on installer
+Execute-next-next-set root password-next-next-execute-finish-enter password
